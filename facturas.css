@@ -1,0 +1,127 @@
+.frame-child,
+.image-7-icon {
+  position: absolute;
+  left: 0;
+  width: 1102px;
+}
+.frame-child {
+  top: 0;
+  background-color: #395a61;
+  height: 164px;
+}
+.image-7-icon {
+  top: 74px;
+  height: 958px;
+  object-fit: cover;
+}
+.frame-child1,
+.frame-child2,
+.frame-child3,
+.frame-inner,
+.frame-item,
+.rectangle-div {
+  position: absolute;
+  top: 222px;
+  left: 715px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 241px;
+  height: 58px;
+  cursor: pointer;
+}
+.frame-child1,
+.frame-child2,
+.frame-child3,
+.frame-inner,
+.rectangle-div {
+  top: 338px;
+  left: 714px;
+  width: 242px;
+  height: 57px;
+}
+.frame-child1,
+.frame-child2,
+.frame-child3,
+.rectangle-div {
+  top: 448px;
+  height: 58px;
+}
+.frame-child1,
+.frame-child2,
+.frame-child3 {
+  top: 543px;
+  height: 55px;
+}
+.frame-child2,
+.frame-child3 {
+  top: 630px;
+  height: 54px;
+}
+.frame-child3 {
+  top: 730px;
+  left: 703px;
+  width: 253px;
+  height: 58px;
+}
+.identidad-de-factura {
+  position: absolute;
+  top: 350px;
+  left: 291px;
+  color: var(--color-black);
+}
+.identidad-de-cliente {
+  position: absolute;
+  top: 330px;
+  left: 291px;
+}
+.fecha,
+.hora,
+.producto {
+  position: absolute;
+  top: 452px;
+  left: 567px;
+}
+.hora,
+.producto {
+  top: 523px;
+  left: 580px;
+}
+.producto {
+  top: 630px;
+  left: 502px;
+}
+.rectangle-icon,
+.total-de-compras {
+  position: absolute;
+  top: 735px;
+  left: 223px;
+}
+.rectangle-icon {
+  top: 730px;
+  left: 574px;
+  border-radius: var(--br-xl);
+  width: 91px;
+  height: 60px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.factura {
+  position: absolute;
+  top: 10px;
+  left: 1px;
+  color: var(--color-white);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.rectangle-parent {
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 1032px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-gray-300);
+  font-family: var(--font-open-sans);
+}
