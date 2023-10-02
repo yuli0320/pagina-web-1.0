@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(155, 118, 218, 0.835);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+
+}
+
+form{
+    background-color: #f5f5f5;
+    padding: 50px;
+    width: 420px;
+    text-align: center;
+    box-shadow: 00 0 20px rgb(0,0,0, 0.2);
+}
+
+form h2{
+    font-size: 25px;
+    color: #1e1e1e;
+    text-transform: uppercase;
+    margin-bottom: 35px;
+}
+
+.input-container > i {
+    padding: 14px;
+    border-radius: 50%;
+    background: linear-gradient(90deg,
+     rgba(153, 26, 123, 1) 0%,
+     rgba(117,30, 156, 1)50%
+     );
+     color: #fcfcfc;
+     position: absolute;
+     font-size: 20px;
+     margin-top: -10px;
+}
+
+
+.input-container >  input{
+    padding: 10px, 10px, 10px, 45px;
+    width: 80%;
+    height: 31px;
+    margin-bottom: 25px;
+    border-radius:35px;
+    background-color: transparent;
+    border: 2px solid #cbcbcb;
+    font-size:15px;
+    outline: none;
+    color: #1e1e1e;
+}
+
+::placeholder{
+    color: #a0a0a0;
+    font-size: 16px;
+}
+
+form a{
+    display: block;
+    color: #a0a0a0;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.btn {
+    align-items: center;
+    background:linear-gradient(90deg,
+    rgba(153, 26, 123, 1) 0%,
+    rgba(117,30, 156, 1)50%); 
+    padding: 15px 80px;
+    border: 0;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    border-radius: 25px;
+    color: #fcfef7;
+    cursor: pointer;
+}
+
+.success{
+    position: absolute;
+    top: 50px;
+    color: #0000;
+    font-size: 18px;
+}
+
+
+.error{
+    position: absolute;
+    top: 50px;
+    color: #e02d00;
+    font-size: 18px;
+}
+
+
+
+@media(max-width:991px) {
+    body{
+        padding: 30px;
+    }
+
+    form{
+        width: 340px;
+    }
+
+    /*Conexion (php)*/
+    
+}

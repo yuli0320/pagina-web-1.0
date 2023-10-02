@@ -23,7 +23,11 @@
         <div class="frame-child13"><input type="submit" value="acceso"></div>
         
         
-        <div class="frame-child1"><input type="submit"value= " ¿se te olvido la contraseña?"> </div>
+        
+        <div class="frame-child1"><input type="submit"value= "cambiar contraseña"> <li><a href="cambiar.php">cambiar contraseña</a></li>
+                   </div>
+        
+
         <div class="no-tiene-una"> <input type="submit"value=" ¿no tienes una cuenta?"></div>
     </div>
 

@@ -14,10 +14,12 @@
       <img class="image-1-icon" alt="" src="imgs/1.png" />
 
      <div class="registrar">REGISTRAR</div>
-     <div class="frame-item"><input type="text"name="tipo de docuento"id="tipo de docuento"placeholder="tipo de documento" ></div>
-     <div class="frame-inner"><input type="text" name="numero de documento"id="numero de documento"placeholder=" numero de documento "></div>
-     <div class="rectangle-div"> <input type="text" name="genero "placeholder=" genero"></div>
-     <div class="frame-child1"> <input type="text" name="nombres" placeholder=" nombres"></div>
+     <form action="rejistro.php"method="</form>"
+
+     < div class="frame-item"><input type="text"name="tipo de docuento"id="tipo de docuento"placeholder="tipo de documento" ></>
+      <div class="frame-inner"><input type="text" name="numero de documento"id="numero de documento"placeholder=" numero de documento "></div>
+      <div class="rectangle-div"><input type="text" name="genero "placeholder=" genero"></div>
+     <div class="frame-child1"><input type="text" name="nombres" placeholder=" nombres"></div>
      <div class="frame-child2"><input type="text" name="apellidos" placeholder="apellidos"></div>
      <div class="frame-child3"><input type="text" name="direccion" placeholder=" direccion"></div>
      <div class="frame-child4"><input type="text" name="fecha de nacimiento" placeholder=" fecha de nacimiento"></div>
