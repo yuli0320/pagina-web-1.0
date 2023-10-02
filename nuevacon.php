@@ -3,15 +3,15 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, width=device-width" />
-    <link rel="stylesheet" href="./Nubes.css" />
-    <link rel="stylesheet" href="./contra.css"/>
+    <link rel="stylesheet" href="css/Nubes.css" />
+    <link rel="stylesheet" href="css/contra.css"/>
     
   </head>
   <body>
     <div class="rectangle-parent">
       <div class="frame-child"></div>
       <div class="cambiar-contrasea">CAMBIAR CONTRASEÑA</div>
-      <img class="image-5-icon" alt="" src="./image 5.png" />
+      <img class="image-5-icon" alt="" src="imgs/5.png" />
 
       
       <div class="frame-item"><input type="password"name="password"id="password"placeholder=" nueva contraseña"></div>

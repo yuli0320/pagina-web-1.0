@@ -4,8 +4,8 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, width=device-width" />
-    <link rel="stylesheet" href="./facturas.css" />
-    <link rel="stylesheet" href="./facturas2.css" />
+    <link rel="stylesheet" href="css/facturas.css" />
+    <link rel="stylesheet" href="css/facturas2.css" />
     <link
       rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Open Sans:ital,wght@0,400;1,400&display=swap"

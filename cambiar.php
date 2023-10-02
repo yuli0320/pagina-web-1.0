@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, width=device-width" />
-    <link rel="stylesheet" href="./cambis.css" />
-    <link rel="stylesheet" href="./emailcam.css" />
+    <link rel="stylesheet" href="css/cambis.css" />
+    <link rel="stylesheet" href="css/emailcam.css" />
     
       
   </head>
@@ -12,11 +12,11 @@
     <div class="rectangle-parent">
       <div class="frame-child"><</div>
       <div class="recuperar-contrasea">RECUPERAR CONTRASEÑA</div>
-      <img class="image-3-icon " alt="" src="/image 4 (1).png" />
+      <img class="image-3-icon " alt="" src="imgs/4.png" />
 
       <div class="frame-item" id="rectangle1"><input type="text" name="email" placeholder=" email"></div>
       
-      <img class="image-4-icon" alt="" src="/image 3 (1).png" />
+      <img class="image-4-icon" alt="" src="imgs/3.png" />
 
       <div class="frame-inner" id="rectangle2"><input type="submit" value="emviar " placeholder="enviar"></div>
       

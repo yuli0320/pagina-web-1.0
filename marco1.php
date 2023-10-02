@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, width=device-width" />
-    <link rel="stylesheet" href="./global.css" />
-    <link rel="stylesheet" href="./frame1.css" />
+    <link rel="stylesheet" href="css/global.css" />
+    <link rel="stylesheet" href="css/frame1.css" />
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;1,400&display=swap" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;1,400&display=swap" />
@@ -13,7 +13,7 @@
 
 <body>
     <div class="image-2-parent">
-        <img class="image-2-icon" alt="" src="./image 2.png" />
+        <img class="image-2-icon" alt="" src="imgs/2.png" />
 
         <div class="iniciar-sesion">INICIAR SESION</div>
         <div class="frame-child10"> <input type="password" name="password" id="password" placeholder="contraseña"></div>

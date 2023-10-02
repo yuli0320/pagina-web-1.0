@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, width=device-width" />
-    <link rel="stylesheet" href="./metotodopago1.css" />
-    <link rel="stylesheet" href="./metodopago2.css" />
+    <link rel="stylesheet" href="css/metotodopago1.css" />
+    <link rel="stylesheet" href="css/metodopago2.css" />
     <link
       rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Open Sans:ital,wght@0,400;1,400&display=swap"
@@ -30,7 +30,7 @@
     <div class="rectangle-parent">
       <div class="frame-child"></div>
       <div class="frame-item"></div>
-      <img class="image-9-icon" alt="" src=" image 9.png" />
+      <img class="image-9-icon" alt="" src="imgs/8.png" />
 
       <div class="frame-inner"></div>
       <div class="monto-de-pago"><input type="text" name="monto de pago" id="monto de pago" placeholder="monto de pago"></div>

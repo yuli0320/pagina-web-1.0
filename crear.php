@@ -3,15 +3,15 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, width=device-width" />
-    <link rel="stylesheet" href="./indise cre.css" />
-    <link rel="stylesheet" href="./faryu.css" />
+    <link rel="stylesheet" href="css/indise cre.css" />
+    <link rel="stylesheet" href="css/faryu.css" />
 
     
   </head>
   <body>
     <div class="rectangle-parent">
       <div class="frame-child"></div>
-      <img class="image-1-icon" alt="" src="./image 1.png" />
+      <img class="image-1-icon" alt="" src="imgs/1.png" />
 
      <div class="registrar">REGISTRAR</div>
      <div class="frame-item"><input type="text"name="tipo de docuento"id="tipo de docuento"placeholder="tipo de documento" ></div>
